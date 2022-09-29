@@ -1,2 +1,2 @@
 # numpycheatsheet
-It is cheat sheet to revise the concept in glance
+It is cheatsheet to revise the concept 
